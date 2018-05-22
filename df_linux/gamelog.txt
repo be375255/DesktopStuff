@@ -1,0 +1,26 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 2223333
+ Seed: Ki75zabTpib9CsbTqLRA
+ History Seed: HBAXviBHLGlVii3C6WRh
+ Name Seed: 0qe2UiHprBpyAlwtFxdO
+ Creature Seed: 1CMCkHAcZRk45Es4kafN
+** Starting New Outpost **
+There is nothing to catch in the central swamps.
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4333333
+ Seed: mY2oAMim44y46MICO4Kg
+ History Seed: UUkGacoOkC0IWwwa4Y8y
+ Name Seed: O0sOCwQQma0EyWGKuuYU
+ Creature Seed: wOgI6Oe0mgk4WOEUEUoq
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3233334
+ Seed: UwYdeRWnyOya2EvvHMHH
+ History Seed: RBkz6GJT0NAhWt6w8QTy
+ Name Seed: 1HOrJ3anghsviOeavAnf
+ Creature Seed: LACdtXLrjebY6nHBcdo6
+** Starting New Outpost **
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
